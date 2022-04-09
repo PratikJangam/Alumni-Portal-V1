@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a9c81856.css",
+    "main.js": "/static/js/main.db6d2a7f.js",
+    "static/media/BESTPRINCIPAL1.jpg": "/static/media/BESTPRINCIPAL1.0b765c4a67b2f7922e71.jpg",
+    "static/media/BESTSTUDENT1.jpg": "/static/media/BESTSTUDENT1.918f7c1d715c9f807712.jpg",
+    "static/media/BESTCOLLEGE1.jpg": "/static/media/BESTCOLLEGE1.7d3b7f6615fd9667b3b3.jpg",
+    "static/media/BESTTEACHER1.jpg": "/static/media/BESTTEACHER1.2968530d50da0b15f0a2.jpg",
+    "static/media/3.jpg": "/static/media/3.a75d027592998c94e4bc.jpg",
+    "static/media/1.jpg": "/static/media/1.8655cb019583dc787197.jpg",
+    "static/media/LogoRSCOE.png": "/static/media/LogoRSCOE.605c13fc33b8f7d46fa1.png",
+    "static/media/2.jpg": "/static/media/2.366ce7451160c84836a2.jpg",
+    "static/media/User.png": "/static/media/User.5cba62977d4dbefba792.png",
+    "index.html": "/index.html",
+    "static/media/LogoAlumniTalk.svg": "/static/media/LogoAlumniTalk.38976633998ecd3ddd0b0c5a02fdb6b6.svg",
+    "static/media/LogoFeed.svg": "/static/media/LogoFeed.222621c264e9ce5edb1f8bc92e9858c7.svg",
+    "static/media/LogoEvents.svg": "/static/media/LogoEvents.0249b1349c41c704494f9f51c9d32555.svg",
+    "static/media/LogoFindAlumni.svg": "/static/media/LogoFindAlumni.6ef343ef25cef4f8dc715c07971089a1.svg",
+    "static/media/LogoAboutUs.svg": "/static/media/LogoAboutUs.5c32c7b9a3ff84873eb144a2204f7320.svg",
+    "static/media/LogoHome.svg": "/static/media/LogoHome.1d42be824588d4be32b6d9732eb78a65.svg",
+    "main.a9c81856.css.map": "/static/css/main.a9c81856.css.map",
+    "main.db6d2a7f.js.map": "/static/js/main.db6d2a7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9c81856.css",
+    "static/js/main.db6d2a7f.js"
+  ]
+}
